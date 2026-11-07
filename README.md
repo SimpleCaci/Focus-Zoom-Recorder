@@ -1,8 +1,8 @@
 # Focus Zoom Recorder
 
-A focus-aware Windows recorder that helps you stay anchored to the active task while turning real workflows into polished, shareable walkthroughs.
+A Windows screen recorder that follows the foreground window and cursor, adds a focus blur, and saves MP4 video.
 
-Focus Zoom Recorder follows the foreground window and cursor, reducing visual distraction while you work. The same attention-aware framing is captured as an MP4, making it easy to turn a coding session, design process, or repeatable workflow into a tutorial or demonstration.
+Choose a monitor, preview the framing, and press V to start or stop recording. Zoom and focus effects are included in the saved video.
 
 > **Status:** working Windows prototype with live capture, foreground-window tracking, smooth cursor-following zoom, MP4 recording, and an OpenCV preview.
 
@@ -15,7 +15,6 @@ Focus Zoom Recorder follows the foreground window and cursor, reducing visual di
 - adjustable zoom level and reset controls
 - OpenCV live preview
 - on-demand MP4 recording for shareable tutorials and workflow walkthroughs
-- attention-aware framing that keeps the active task visually prominent
 
 ## Technology
 
